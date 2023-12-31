@@ -53,6 +53,3 @@ Contributions to this credit score predictor are welcome! If you have suggestion
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the credit score predictor according to your requirements.
 
-## Contact
-
-For any questions or inquiries, please contact amanraghu1c1301@gmail.com.
